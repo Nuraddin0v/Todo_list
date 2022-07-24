@@ -1,0 +1,33 @@
+.btn1 {
+    background-color: #2196F3;
+    border: none;
+}
+.img {
+    width: 30px;
+    margin: 5px;
+}
+td {
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxes {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 17%;
+    background-color: #FEFEFE;
+    padding: 20px;
+}
+.box{
+    display: flex;
+}
+.btn2{
+    border: none;
+    background-color: #2196F3;
+    color: #fff;
+    padding: 0 13.5px;
+}
+.text{
+    margin-right: auto;
+}
